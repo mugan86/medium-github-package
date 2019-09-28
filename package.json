@@ -1,0 +1,11 @@
+{
+  "name": "hola-mundo-medium-github",
+  "version": "1.0.0",
+  "description": "Artículo de Medium para crear el nuevo paquete y publicarlo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anartz Mugika Ledo <mugan86@gmail.com>",
+  "license": "MIT"
+}
